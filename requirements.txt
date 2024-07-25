@@ -1,2 +1,2 @@
-torch==0.4.0
+torch==2.2.0
 torchvision==0.2.1
